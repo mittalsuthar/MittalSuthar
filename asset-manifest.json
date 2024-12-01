@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MittalSuthar/static/css/main.975f519f.css",
+    "main.js": "/MittalSuthar/static/js/main.c0209140.js",
+    "static/js/453.acca0757.chunk.js": "/MittalSuthar/static/js/453.acca0757.chunk.js",
+    "index.html": "/MittalSuthar/index.html",
+    "main.975f519f.css.map": "/MittalSuthar/static/css/main.975f519f.css.map",
+    "main.c0209140.js.map": "/MittalSuthar/static/js/main.c0209140.js.map",
+    "453.acca0757.chunk.js.map": "/MittalSuthar/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975f519f.css",
+    "static/js/main.c0209140.js"
+  ]
+}
